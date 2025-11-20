@@ -17,9 +17,7 @@ So I built a clean, ad-free alternative for myself, and I’m open-sourcing it i
 
 - Loads the **official AO3 website** directly through a WebView  
 - Keeps all AO3 features intact (login, browsing, tags, filters, bookmarks, etc.)  
-- Provides a smoother "app-like" experience on mobile  
-- Stays minimal and fast  
-- No custom UI — just AO3 as it is
+- Provides a smoother "app-like" experience on mobile 
 
 
 This app is literally **a wrapper of AO3**, nothing more.
