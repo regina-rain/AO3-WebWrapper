@@ -34,9 +34,9 @@ You can download the latest APK under the **Releases** section of this repositor
 
 ## Disclaimer
 
-> This app is **not affiliated with AO3 or OTW**.  
-> It simply loads the existing AO3 website in an Android WebView.  
-> Use at your own discretion.
+This app is **not affiliated with AO3 or OTW**.  
+It simply loads the existing AO3 website in an Android WebView.  
+Use at your own discretion.
 
 ---
 
